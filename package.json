@@ -1,6 +1,6 @@
 {
   "name": "hue-icon",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Philips Hue SVG Icons converted to React components",
   "author": "Kilian SMITI",
   "license": "MIT",
